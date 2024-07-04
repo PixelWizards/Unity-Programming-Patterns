@@ -31,4 +31,9 @@ Unity has implemented this pattern in the form of the GetComponent() method.
 - **Facade.** You can use Facade in combination with Service Locator.
 
 
+Here is an example implementation of the Service Locator pattern as a Unity UPM package:
+
+https://github.com/PixelWizards/com.pixelwizards.servicelocator 
+
+
 ## [Back](../)

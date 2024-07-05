@@ -35,4 +35,8 @@ You tend to use the Singleton pattern because you want an easy access to that sc
 - **One Singleton.** Have just one Singleton class and all managers that used to be Singletons are collected in this class. If you need the SaveGame object, you type GameController.Instance.getSaveGameManager(). 
 
 
+# Unity UPM Package
+You can find an example Singleton implementation as a Unity UPM package here:
+https://github.com/PixelWizards/com.pixelwizards.singleton
+
 ## [Back](../) 

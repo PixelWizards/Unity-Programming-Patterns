@@ -28,5 +28,9 @@ This pattern is so popular Unity has implemented their own version of it called 
 
 - **Prototype.**
 
+PixelWizards has published an example implementation of Object Pooling as a UPM package that can be used in your own projects:
+
+https://github.com/PixelWizards/com.pixelwizards.objectpool
+
 
 ## [Back](../)
